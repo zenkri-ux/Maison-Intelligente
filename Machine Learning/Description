@@ -1,0 +1,9 @@
+ML part consists of training our dataset using machine learning models to compare the results given by each algorithm. 
+We used:
+-Simple linear regression
+-Multiple linear regression
+-Decision Tree regressor
+-Random Forest regressor
+-XGBoost..
+
+-LSTM for time series forcasting (loading)
