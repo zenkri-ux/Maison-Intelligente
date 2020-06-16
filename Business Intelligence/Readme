@@ -1,4 +1,4 @@
 In the Business Intelligence part, we developed some datawarehousing tools.. 
 We used SQL Server Management Studio to store our data in.
 SQL Server Integrated Service (SSIS) as an ETL tool.
-Power BI for reporting the results.
+Power BI to report our results.
